@@ -21,7 +21,6 @@
 title: International Consortium for Freezing of Gait
 email: contact.icfog@gmail.com
 description: Moving forward on a mysterious clinical phenomenon
-baseurl: "/consortium" # the subpath of your site, e.g. /blog
 url: "https://icfog.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  icfog
 twitter_username: fogconsortium
@@ -51,3 +50,6 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+
+
