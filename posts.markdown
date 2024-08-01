@@ -1,7 +1,7 @@
 ---
 layout: default
-title: posts
-permalink: /Posts/
+title: Posts
+permalink: /posts/
 ---
 <ul>
   {% for post in site.posts %}
