@@ -6,8 +6,6 @@ permalink: /post-archive/
 
 # Post Archive
 
-Welcome to the archive of all blog posts. Here you will find a list of all the posts in chronological order.
-
 <ul>
   {% for post in site.posts %}
     <li>
