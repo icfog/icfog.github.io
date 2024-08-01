@@ -4,8 +4,6 @@ title: Resources
 permalink: /resources/
 ---
 
-# Bylaws
-
 ## Bylaws of the International Consortium for (the study of) Freezing of Gait (ICFOG).
 
 ### ARTICLE I: NAME
