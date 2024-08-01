@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Meetings
-permalink: /meetings/
+title: Previous Meetings
+permalink: /previous-meetings/
 ---
 
 - Atlanta, Georgia, USA, June 3-6 2025
