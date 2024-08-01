@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Archive
-permalink: /archive/
+title: Post Archive
+permalink: /post-archive/
 ---
 
-# All Activity
+# Post Archive
 
 Welcome to the archive of all blog posts. Here you will find a list of all the posts in chronological order.
 
