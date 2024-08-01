@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Archive
-permalink: /posts/
+permalink: /archive/
 ---
 <ul>
   {% for post in site.posts %}
