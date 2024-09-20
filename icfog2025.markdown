@@ -10,6 +10,6 @@ permalink: /icfog2025/
   </a>
 </div>
 
-<img src="images/ICFOG-Flyer-2024-09-20.png" alt="ICFOG 2025 Flyer" width="1000">
+<img src="images/ICFOG-Flyer-2024-09-20.png" alt="ICFOG 2025 Flyer" width="1000px">
 
-<img src="images/icfog2025-agenda-2024-08-01.png" alt="ICFOG 2025 Agenda" width="1000">
+<img src="images/icfog2025-agenda-2024-08-01.png" alt="ICFOG 2025 Agenda" width="1000px">
